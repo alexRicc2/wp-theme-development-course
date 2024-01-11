@@ -1,0 +1,1 @@
+This theme is currently installed in local wp - theme development, folowwing course: https://www.youtube.com/playlist?list=PLD8nQCAhR3tS2ObKBs7hx0B4uiiEbjuIq
